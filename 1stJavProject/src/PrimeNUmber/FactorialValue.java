@@ -1,6 +1,6 @@
 package PrimeNUmber;
 
-public class   {
+public  class FactorialValue   {
 	 public static void main(String[] args) {
 
 	    	//We will find the factorial of this number
